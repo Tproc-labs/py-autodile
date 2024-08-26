@@ -9,11 +9,6 @@ import time
 
 dile_pixel="x=972, y=295"
 dile_default_color="(206, 66, 33)"
-#TODO use the RGB vals above to compare and verify they are correct.
-#move the courser somewhere else random and see if it responds back with the same.
-# if not work on it more or check if it's a shiny!
-# this is to verify it sees the colour correct and if it is anything else PAUSE EVERYTHING.
-
 
 from mouseinfo import position
 from pyscreeze import pixel
